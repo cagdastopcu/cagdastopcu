@@ -29,15 +29,11 @@ Collecting and processing electrocorticography (ECoG), intracranial electroencep
 (iEEG), stereoelectroencephalography (sEEG), electromyogram
 (EMG), mechanomyogram (MMG), electrocardiogram (ECG), respiration and
 pulse data from healthy individuals and patients. Neurolynx, and ADInstruments
-PowerLab recording systems. Human verbal memory. Functional electrical
-stimulation. Rehabilitation of facial expressions after full-face transplantation,
-rehabilitation of functional movements after arm replantation. Assessing
-muscle recovery with complexity measures of surface EMG. Muscle synergies
+PowerLab recording systems. Human verbal memory. Biomarkers for memory effect. Functional electrical
+stimulation. Muscle synergies
 and muscle networks with intermuscular coherence and non-negative matrix
 factorization (NNMF) and principal component analysis (PCA). Muscle onset
-detection with Fuzzy entropy. Brain plasticity in face and arm transplantations.
-Aberrant reinnervation and synkinesis after trauma and allotransplantation.
-Phase response curves. Synchronization and Kuramoto model of complex
+detection with Fuzzy entropy. Brain plasticity. Synchronization and Kuramoto model of complex
 networks. Coupled oscillatory systems and coupling functions. Hilbert Transform.
 Statistical, frequency domain and nonlinear heart rate variability measures.
 Multiresolution signal processing aka wavelets. Nonlinear signal processing
