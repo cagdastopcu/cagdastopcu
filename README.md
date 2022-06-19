@@ -19,9 +19,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="GIT" alt="GIT" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/networkx/networkx-original.svg" title="networkx" alt="networkx" width="40" height="40"/>&nbsp;
 </div>
-
+---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cagdastopcu&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+---
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cagdastopcu&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 <!--
