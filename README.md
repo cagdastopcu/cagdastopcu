@@ -10,7 +10,7 @@
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :space_invader: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" alt="Matlab" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -43,8 +43,8 @@ Statistical, frequency domain and nonlinear heart rate variability measures.
 Multiresolution signal processing aka wavelets. Nonlinear signal processing
 (fractal dimension, approximate entropy, sample entropy, wavelet entropy,
 wavelet packet entropy, fuzzy entropy). Dynamical functional connectivity from
-iEEG data. Classication with k-nearest neighbor (KNN), linear discriminant
-analysis (LDA), Gaussian mixture model (GMM), feedforward neural networks, radial basis function (RBF) neural networks, adaptive neuro-fuzzy interface system
+iEEG data. Classification with k-nearest neighbor (KNN), linear discriminant
+analysis (LDA), Gaussian mixture model (GMM), k-means clustering, feedforward neural networks, radial basis function (RBF) neural networks, adaptive neuro-fuzzy interface system
 (ANFIS), support vector machine (SVM), and self organizing map (SOM).
 
 ---
