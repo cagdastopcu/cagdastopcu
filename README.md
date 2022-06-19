@@ -40,8 +40,7 @@ Multiresolution signal processing aka wavelets. Nonlinear signal processing
 (fractal dimension, approximate entropy, sample entropy, wavelet entropy,
 wavelet packet entropy, fuzzy entropy). Dynamical functional connectivity from
 iEEG data. Classification with k-nearest neighbor (KNN), linear discriminant
-analysis (LDA), Gaussian mixture model (GMM), k-means clustering, feedforward neural networks, radial basis function (RBF) neural networks, adaptive neuro-fuzzy interface system
-(ANFIS), support vector machine (SVM), and self organizing map (SOM).
+analysis (LDA), Gaussian mixture model (GMM), k-means clustering, feedforward neural networks, radial basis function (RBF) neural networks, support vector machine (SVM), autoencoder.
 
 ---
 
