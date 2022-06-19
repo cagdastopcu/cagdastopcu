@@ -3,12 +3,17 @@
 
 - 🔭 I’m currently working on human verbal memory.
 - 🌱 I’m currently learning Pytorch.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about neuroscience, data science and signal processing.
-- 📫 How to reach me: ...
+- 📫 How to reach me (twitter): @cagdastopcu
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" alt="Matlab" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cagdastopcu&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
