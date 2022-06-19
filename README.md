@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Pytorch.
 - 💬 Ask me about neuroscience, data science and signal processing.
 - 📫 How to reach me (twitter): @cagdastopcu
-- :star: Papers: [I'm an inline-style link with title](https://scholar.google.co.uk/citations?user=KoQ8mMQAAAAJ&hl=en&oi=ao "Google scholar")
+- :star: Papers: [Google scholar](https://scholar.google.co.uk/citations?user=KoQ8mMQAAAAJ&hl=en&oi=ao "Google scholar")
 - 😄 Pronouns: he/him
 
 ---
