@@ -23,6 +23,32 @@
 
 ---
 
+### :hammer_and_wrench: Technical skills :
+
+Collecting and processing electrocorticography (ECoG), intracranial electroencephalography
+(iEEG), stereoelectroencephalography (sEEG), electromyogram
+(EMG), mechanomyogram (MMG), electrocardiogram (ECG), respiration and
+pulse data from healthy individuals and patients. Neurolynx, and ADInstruments
+PowerLab recording systems. Human verbal memory. Functional electrical
+stimulation. Rehabilitation of facial expressions after full-face transplantation,
+rehabilitation of functional movements after arm replantation. Assessing
+muscle recovery with complexity measures of surface EMG. Muscle synergies
+and muscle networks with intermuscular coherence and non-negative matrix
+factorization (NNMF) and principal component analysis (PCA). Muscle onset
+detection with Fuzzy entropy. Brain plasticity in face and arm transplantations.
+Aberrant reinnervation and synkinesis after trauma and allotransplantation.
+Phase response curves. Synchronization and Kuramoto model of complex
+networks. Coupled oscillatory systems and coupling functions. Hilbert Transform.
+Statistical, frequency domain and nonlinear heart rate variability measures.
+Multiresolution signal processing aka wavelets. Nonlinear signal processing
+(fractal dimension, approximate entropy, sample entropy, wavelet entropy,
+wavelet packet entropy, fuzzy entropy). Dynamical functional connectivity from
+iEEG data. Classication with k-nearest neighbor (KNN), linear discriminant
+analysis (LDA), Gaussian mixture model (GMM), feedforward neural networks, radial basis function (RBF) neural networks, adaptive neuro-fuzzy interface system
+(ANFIS), support vector machine (SVM), and self organizing map (SOM).
+
+---
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cagdastopcu&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
