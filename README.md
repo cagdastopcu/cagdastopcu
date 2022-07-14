@@ -1,5 +1,5 @@
 ### Hi there, I am Cagdas. I develop neural signal processing methods in MATLAB and Python 👋
-### I have 8 papers in biomedical engineering and neuroscience journals, 2 patent applications on cognitive brain modulation with electrical stimulation, more than 15 connference presentations and talks and 2 book chapters.
+### I have 8 papers in biomedical engineering and neuroscience journals, 2 patent applications on cognitive brain modulation with electrical stimulation, more than 15 conference presentations and talks and 2 book chapters.
 
 - 🔭 I’m currently working on human verbal memory.
 - 🌱 I’m currently learning Pytorch.
