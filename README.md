@@ -49,6 +49,7 @@ analysis (LDA), Gaussian mixture model (GMM), k-means clustering, feedforward ne
 ---
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cagdastopcu&theme=dark&hide_border=true)](https://git.io/streak-stats)
+<a rel="me" href="https://github.com/cagdastopcu">Github</a>
 <a rel="me" href="https://mastodon.social/@cagdas">Mastodon</a>
 <!--
 **cagdastopcu/cagdastopcu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
